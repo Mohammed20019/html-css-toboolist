@@ -1,8 +1,11 @@
 
 .header{
+    display: none;
     height: 800px;
     width: 800px;
+    margin-bottom: 40%;
 }
-.body{
-    height: 800px;
+.body
+.section1{
+    display: inline;
 }
